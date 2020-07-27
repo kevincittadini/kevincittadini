@@ -7,7 +7,7 @@ I develop web and mobile applications using web technologies.
 
 I've been having a crush on open source software lately, but still working on it 😄
 
-Wanna stay in touch around the web? 
-Check all my links down here 👇 They are up to date.
+Wanna stay in touch around the web?  
+Check all my links down here 👇
  
  🌲 [linktr.ee/kevincittadini](https://linktr.ee/kevincittadini)
