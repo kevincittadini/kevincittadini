@@ -2,7 +2,7 @@
 
 Hi, thanks for passing by 🖖
 
-I'm a Software Engineer working at @soisy. 💻 🤓  
+I'm a Software Engineer. 💻 🤓  
 I develop web and mobile applications using web technologies.
 
 I've been having a crush on open source software lately, but still looking into it 😄
