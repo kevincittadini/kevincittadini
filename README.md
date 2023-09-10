@@ -2,7 +2,7 @@
 
 Hi, thanks for passing by 🖖
 
-I'm a Backend Software Engineer and Software Consultant working for [Claranet Italy](https://github.com/claranet-it). 💻 🤓  
+I'm a Backend Software Engineer and Software Consultant. 💻 🤓  
 I applications using modern web technologies and the best coding practices available.
 
 I'm a DDD enthusiast.
