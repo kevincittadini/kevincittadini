@@ -1,4 +1,4 @@
-### Name's Kevin, I'm a Software Engineer
+### Name's Kevin, I'm an Engineer
 
 Hi, thanks for passing by 🖖
 
