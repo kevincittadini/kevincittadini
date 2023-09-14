@@ -3,7 +3,7 @@
 Hi, thanks for passing by 🖖
 
 I'm a Backend Software Engineer and Software Consultant. 💻 🤓  
-I applications using modern web technologies and the best coding practices available.
+I develop applications by using modern web technologies and the best coding practices available.
 
 I'm a DDD enthusiast.
 
