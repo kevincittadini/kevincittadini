@@ -1,8 +1,8 @@
-### Name's Kevin, I'm an Engineer
+### Name's Kevin, I'm a Software Engineer & Creator
 
 Hi, thanks for passing by 🖖
 
-I'm a Backend Software Engineer and Software Consultant. 💻 🤓  
+I'm a Software Engineer, Creator and Software Consultant. 💻 🤓  
 I develop applications by using modern web technologies and the best coding practices available.
 
 I'm a DDD enthusiast.
